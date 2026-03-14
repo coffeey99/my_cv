@@ -1,4 +1,4 @@
-# Terminal-Lebenslauf Abdullah Nowroz
+# Terminal-Lebenslauf
 
 Dieser Lebenslauf ist als **Terminal-Version** modular aufgebaut und für Tech-orientierte Arbeitgeber interessant.
 
